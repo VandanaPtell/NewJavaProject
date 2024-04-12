@@ -12,7 +12,7 @@ public class ArrayExample2 {
 		for (char ch:c) {
 			System.out.println(ch);
 		}
-
 	}
 
 }
+ 
